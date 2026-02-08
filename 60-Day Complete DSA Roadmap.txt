@@ -1,0 +1,335 @@
+60-Day Complete DSA Roadmap
+
+Duration: 8 weeks + 4 days
+Daily load: 4–6 problems
+Goal: Strong fundamentals + common interview patterns
+
+Week 1: Arrays Basics + Patterns
+
+Goal: Comfort with indexing, loops, patterns
+
+Topics:
+
+Basic array operations
+
+Min/max
+
+Prefix sum
+
+Two pointers (intro)
+
+Problems:
+
+Linear search
+
+Find max/min
+
+Second largest element
+
+Move zeros to end
+
+Remove duplicates (sorted array)
+
+Two sum
+
+Best time to buy/sell stock
+
+Prefix sum basics
+
+Target: 25–30 problems
+
+Week 2: Strings + Two Pointers + Sliding Window
+
+Goal: Pattern recognition
+
+Topics:
+
+String traversal
+
+Palindromes
+
+Anagrams
+
+Sliding window
+
+Two pointers (advanced)
+
+Problems:
+
+Reverse string
+
+Valid palindrome
+
+Longest common prefix
+
+Valid anagram
+
+Longest substring without repeat
+
+Maximum sum subarray (sliding window)
+
+Minimum window substring (intro level)
+
+Target: 25–30 problems
+
+Week 3: Sorting + Searching
+
+Goal: Core algorithm understanding
+
+Topics:
+
+Bubble, Selection, Insertion (conceptual)
+
+Merge sort (idea)
+
+Quick sort (idea)
+
+Binary search
+
+Problems:
+
+Implement binary search
+
+First/last occurrence
+
+Square root using binary search
+
+Search in rotated array
+
+Kth smallest element
+
+Peak element
+
+Target: 20–25 problems
+
+Week 4: Recursion + Backtracking
+
+Goal: Think recursively
+
+Topics:
+
+Base cases
+
+Recursion tree
+
+Backtracking logic
+
+Problems:
+
+Factorial
+
+Fibonacci
+
+Print all subsequences
+
+Subset generation
+
+Permutations
+
+Combination sum
+
+N-Queens (optional challenge)
+
+Target: 20–25 problems
+
+Week 5: Linked Lists + Stacks + Queues
+
+Goal: Pointer thinking
+
+Linked Lists
+
+Traversal
+
+Reverse list
+
+Middle node
+
+Detect cycle
+
+Stacks & Queues
+
+Stack using array
+
+Queue using array
+
+Valid parentheses
+
+Next greater element
+
+Target: 25–30 problems
+
+Week 6: Hashing + Sets + Maps
+
+Goal: Fast lookups and frequency logic
+
+Topics:
+
+Hash maps
+
+Frequency counting
+
+Set operations
+
+Problems:
+
+Two sum (hashing version)
+
+First non-repeating character
+
+Majority element
+
+Intersection of arrays
+
+Subarray sum equals K
+
+Longest consecutive sequence
+
+Target: 20–25 problems
+
+Week 7: Trees (Core Interview Topic)
+
+Goal: Must-know tree patterns
+
+Topics:
+
+Binary trees
+
+DFS
+
+BFS
+
+Traversals
+
+Problems:
+
+Inorder traversal
+
+Preorder traversal
+
+Postorder traversal
+
+Level order traversal
+
+Maximum depth of tree
+
+Same tree
+
+Invert binary tree
+
+Path sum
+
+Target: 25–30 problems
+
+Week 8: Graphs + Greedy + Heaps
+
+Goal: Advanced but common topics
+
+Graphs
+
+BFS
+
+DFS
+
+Connected components
+
+Problems:
+
+Number of islands
+
+Flood fill
+
+Clone graph (optional)
+
+Greedy
+
+Activity selection
+
+Coin change (greedy version)
+
+Assign cookies
+
+Heaps
+
+Kth largest element
+
+Top K frequent elements
+
+Target: 20–25 problems
+
+Last 4 Days: Revision + Mock Interviews
+
+This is your confidence week.
+
+Daily:
+
+2 mixed problems
+
+1 timed mock test
+
+Revise weak topics
+
+Focus on:
+
+Arrays
+
+Strings
+
+Hashing
+
+Trees
+
+Binary search
+
+Total Problem Count
+
+If you follow this plan:
+
+Average: 5 problems/day
+
+60 days total
+
+≈300 problems
+
+That’s very strong for a 2nd year student.
+
+Daily Routine (Simple Version)
+
+Every day:
+
+3 problems from current topic
+
+1 revision problem
+
+1 random interview problem
+
+Total: 5 problems
+
+By the end of 60 days, you should:
+
+Be comfortable with:
+
+Arrays
+
+Strings
+
+Hashing
+
+Binary search
+
+Recursion
+
+Linked lists
+
+Stacks/queues
+
+Trees
+
+Basic graphs
+
+Greedy
+
+Heaps
+
+That is internship interview ready.
+
+make a google sheet tracker of this
